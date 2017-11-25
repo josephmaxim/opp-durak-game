@@ -34,3 +34,9 @@ A project that implements ALL of the minimal requirements and two or more of the
  **Grades**
  
  ![Grades](/img/grade.png?raw=true "Grades")
+ 
+ **Collaborators**
+ - Joseph Maxim
+ - Ryan Ramkalawan
+ - Tyler Nankishore
+ - David Bond
