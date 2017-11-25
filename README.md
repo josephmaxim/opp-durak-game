@@ -6,7 +6,7 @@ For this project you and your team will be creating a GUI simulation of the game
 **Minimal Requirements (40 marks)**
 A project that implements ONLY the minimal requirements listed will be graded up to 67% (40/60).
 
-INSERT IMAGE HERE
+![40 marks](/img/1.png?raw=true "40 Marks")
 
  - **Game-Play Logic (Two-Player).** Although typically Durak is played with between two and six people, for the purposes of this project you should limit the game to two-player, i.e. one human controlled player and one computer controlled player. You are not required to implement more than two players for this
 project. 
@@ -20,7 +20,7 @@ project.
 **Recommended Features (20 marks)**
 A project that implements ALL of the minimal requirements and two or more of the recommended features listed will be graded up to 100% (60/60).
 
-IMAGE HERE
+![20 marks](/img/2.png?raw=true "20 Marks")
 
  - **Transferring (a.k.a. Perevodnoy or Passing Durak).** In this variation of Durak, if on the initial attack the defending player is able to play a card of the same rank but a different suit (e.g. a six on a six), the attack transfers to that player in a two-player game. The new defending player has the option of transferring the attack again by playing a third card of the same rank. Another transfer is possible if a fourth card of the same suit is played. Transferring is not possible after a defence begins (i.e. the defending player plays a card of the same suit/higher rank or trump).
  - **Advanced Computer Player A.I.** Implement an A.I. logic structure that determines what action the computer-controlled player will make, taking into additional considerations such as whether it is advantageous to pick-up even when a card could be played, how many cards are left in the draw pile, which cards have been played and discarded, and which cards the human player has picked up. If the transferring option is implemented, incorporate A.I. that considers transferring. The computer player should be difficult to beat.
