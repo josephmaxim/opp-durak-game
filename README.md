@@ -30,3 +30,7 @@ A project that implements ALL of the minimal requirements and two or more of the
 	 - **Log.** As the game is being played, record the relevant game-play actions to a text-file log. This log should record the date and time the game was started, the initial hands dealt and the trump card at the game start. It should also record the actions of both the human player and the computer player for each round, including which cards they played, picked-up, and/or drew. Once the game is complete, it should record the results.
 	 - **Persistent Statistics.** Record and update the human-player’s name and number of games played, wins, ties, and losses. This information should be stored in a text file and loaded every time the application is run. Provide the player the option to reset the name and statistics.
  - **Other features.** If you have ideas for other features, they should be proposed in your milestone reports and consultations and approved by the instructor.
+ 
+ **Grades**
+ 
+ ![Grades](/img/grade.png?raw=true "Grades")
