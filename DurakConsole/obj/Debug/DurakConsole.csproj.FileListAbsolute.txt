@@ -1,0 +1,8 @@
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\bin\Debug\DurakConsole.exe.config
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\bin\Debug\DurakConsole.exe
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\bin\Debug\DurakConsole.pdb
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\bin\Debug\DurakLibrary.dll
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\bin\Debug\DurakLibrary.pdb
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\obj\Debug\DurakConsole.csprojResolveAssemblyReference.cache
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\obj\Debug\DurakConsole.exe
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakConsole\obj\Debug\DurakConsole.pdb

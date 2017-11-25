@@ -1,0 +1,5 @@
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakLibrary\bin\Debug\DurakLibrary.dll
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakLibrary\bin\Debug\DurakLibrary.pdb
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakLibrary\obj\Debug\DurakLibrary.dll
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakLibrary\obj\Debug\DurakLibrary.pdb
+D:\Important Folder\Computer Programming courses\Semester 4\OOPIII\Final Project\FinalProjectSolutionFolder\DurakLibrary\obj\Debug\DurakLibrary.csprojResolveAssemblyReference.cache
